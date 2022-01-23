@@ -1,4 +1,65 @@
-## Noni apuntes
-- Biología
-- Programación
-- Otros
+## Glosario
+- IDE
+- repo
+- git
+- server
+- cloud
+- SQL
+- NoSQL
+- data
+- JSON
+- variable
+- metodo
+- función
+- API
+- EndPoint
+- EP
+- PR
+- Pull Request
+- commit
+- push
+- local
+- docker
+- docker file
+- css
+- token
+- issue
+- post
+- ger
+- delete
+- HTTP
+- header
+- headers
+- backend
+- frontend
+- algoritmo
+- estructuras de datos
+- caché
+- socket
+- array
+- CI/DI
+- Linux
+- hosting
+- SSL
+- bug
+- framework
+- librería
+- REST
+- GraphQL
+- request
+- DevOps
+- SCRUM
+- Agile
+- Full Stack
+- UX
+- UI
+- SysAdmin
+- QA
+- Tester
+- DBA
+- cyberseguridad
+- hack
+- cookies
+- responsive
+- micro servicios
+- kubernetes
