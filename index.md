@@ -1,8 +1,8 @@
 ## Glosario
-- IDE
-- repo
-- git
-- server
+- **IDE:** La IDE, por sus siglas en inglés *Integrated Development Environment*, son softwares tipo editor de texto que consolidan diferentes aspectos de la programación en un sólo programa, tales como editar código fuente, construir ejecutables y eliminar bugs. Algunos ejemplos de IDEs populares son VS Code, Sublime, Cloud9, etcétera.
+- **Repositorio:** Un repositorio 
+- **Git**: Git es un software gratis y open-source diseñado para asegurar rapidez y efiencia en proyectos.
+- **Server:** 
 - cloud
 - SQL
 - NoSQL
@@ -11,7 +11,7 @@
 - variable
 - metodo
 - función
-- API
+- API: Una API, por sus siglas en inglés *Application Programming Interface*, es una interfaz por la que dos aplicaciones de software pueden comunicarse la una con la otra.
 - EndPoint
 - EP
 - PR
@@ -33,6 +33,7 @@
 - backend
 - frontend
 - algoritmo
+- HTML: El lenguaje de marcado (markup language) estándar para páginas web. 
 - estructuras de datos
 - caché
 - socket
@@ -63,3 +64,7 @@
 - responsive
 - micro servicios
 - kubernetes
+
+### Referencias
+- https://www.codecademy.com/article/what-is-an-ide
+- 
