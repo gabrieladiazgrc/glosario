@@ -1,7 +1,7 @@
 ## Glosario
-- **IDE:** La IDE, por sus siglas en inglés *Integrated Development Environment*, son softwares tipo editor de texto que consolidan diferentes aspectos de la programación en un sólo programa, tales como editar código fuente, construir ejecutables y eliminar bugs. Algunos ejemplos de IDEs populares son VS Code, Sublime, Cloud9, etcétera.
+- **IDE:** La IDE, por sus siglas en inglés *Integrated Development Environment*, consolida diferentes aspectos de la programación en un sólo software tipo editor en texto, tales como editar código fuente, construir ejecutables y eliminar bugs (debbuging). Algunos ejemplos de IDEs populares son VS Code, Sublime, Cloud9, etcétera.
 - **Repositorio:** Un repositorio funge como una ubicación central para el almacenamiento de archivos, el cuál es usado por sistemas de control de versiones para almacenar diferentes versiones de un mismo archivo. Por lo general, nuevas versiones de los archivos pueden ser almacenadas en *ramas* (branches).
-- **Git**: Git es un software gratis y open-source diseñado para asegurar rapidez y efiencia en proyectos.
+- **Git**: Git es un software gratis y open-source diseñado para 
 - **Server:** 
 - cloud
 - SQL
